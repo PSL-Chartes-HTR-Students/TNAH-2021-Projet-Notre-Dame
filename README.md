@@ -9,3 +9,8 @@ Règles de transcription suivies:
 - mot qui est barré : 难 (une seule fois par mot) mais seulement s'ils sont totalement/à moitié illisibles. Les restranscrire s'ils sont lisibles. 
 - mot que l'on ne parvient pas à transcrire : [??]
 - pour les dessins en marge: ajouter une zone "illustration"
+
+Bonnes pratiques : 
+-----------------------------------------------------------------------------------------------------------------------------------------
+- une branche par personne
+- les fichiers doivent prendre se nommer comme suit : NDP_page01
