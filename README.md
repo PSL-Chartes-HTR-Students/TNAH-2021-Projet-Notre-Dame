@@ -14,3 +14,4 @@ Bonnes pratiques :
 -----------------------------------------------------------------------------------------------------------------------------------------
 - une branche par personne
 - les fichiers doivent prendre se nommer comme suit : NDP_page01
+- pour toute demande d'aide en transcription (mots incertains, illisibles...) : créer une issue pour chaque page pour y répertorier les difficultés
