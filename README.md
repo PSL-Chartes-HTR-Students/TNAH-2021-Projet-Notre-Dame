@@ -10,6 +10,15 @@ Règles de transcription suivies:
 - mot que l'on ne parvient pas à transcrire : [??]
 - pour les dessins en marge: ajouter une zone "illustration"
 
+Utilisation d'eScriptorium :
+---------------------------------------------------------------------------------
+- Application des zones :
+    - une zone principale qui constitue le corps du texte : main
+    - une zone marge : marge
+    - une zone pour encadrer les illustrations : Illustrations
+    - une zone pour délimiter le numéro de folio : folio
+ 
+ 
 Bonnes pratiques : 
 -----------------------------------------------------------------------------------------------------------------------------------------
 - une branche par personne
