@@ -1,6 +1,6 @@
 # Projet-Notre-Dame
 
-Le Projet Notre Dame consiste en une transcription des journaux quotidiens de l'année 1860 des travaux effectués à la cathédrale Notre-Dame de Paris sous la direction d'Eugène Viollet-le-Duc et Jean-Baptiste Lassus. Celle-ci est réalisée dans le cadre du cours GIT du master 2 TNAH de l'Ecole nationale des chartes.
+Le Projet Notre-Dame consiste en une transcription des journaux quotidiens de l'année 1860 des travaux effectués à la cathédrale Notre-Dame de Paris sous la direction d'Eugène Viollet-le-Duc et Jean-Baptiste Lassus. Celle-ci est réalisée dans le cadre du cours GIT du master 2 TNAH de l'Ecole nationale des chartes.
 
 Règles de transcription suivies:
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,6 +9,14 @@ Règles de transcription suivies:
 - mot qui est barré : 难 (une seule fois par mot) mais seulement s'ils sont totalement/à moitié illisibles. Les restranscrire s'ils sont lisibles. 
 - mot que l'on ne parvient pas à transcrire : [??]
 - pour les dessins en marge: ajouter une zone "illustration"
+
+Répartition de la transcription :
+-------------------------------------------------------------------------------------------------------------------------------------------------
+- Anais : pages 1 à 3
+- Soline : pages 4 et 5
+- Ariane : pages 6 et 7
+- Elsa : pages 8 et 9
+- Margaux : pages 10 à 12
 
 Utilisation d'eScriptorium :
 ---------------------------------------------------------------------------------
