@@ -24,7 +24,7 @@ Utilisation d'eScriptorium :
 - Application des zones :
     - une zone principale qui constitue le corps du texte : main
     - une zone marge : marge
-    - une zone pour encadrer les illustrations : Illustrations
+    - une zone pour encadrer les illustrations : illustrations
     - une zone pour délimiter le numéro de folio : folio
  
  
