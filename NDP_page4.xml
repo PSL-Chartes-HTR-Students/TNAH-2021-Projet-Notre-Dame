@@ -27,11 +27,11 @@
         
         <TextBlock HPOS="0"
                    VPOS="0"
-                   WIDTH="435"
+                   WIDTH="440"
                    HEIGHT="4558"
                    ID="eSc_textblock_f91d0518"
                    TAGREFS="BT1453">
-          <Shape><Polygon POINTS="0 0 0 4558 389 4558 435 0"/></Shape>
+          <Shape><Polygon POINTS="0 0 0 4558 389 4558 440 0"/></Shape>
           
           
           <TextLine ID="eSc_line_f7c2c194"
@@ -65,10 +65,10 @@
         <TextBlock HPOS="438"
                    VPOS="0"
                    WIDTH="2420"
-                   HEIGHT="594"
+                   HEIGHT="624"
                    ID="eSc_textblock_49d1b98c"
                    TAGREFS="BT">
-          <Shape><Polygon POINTS="438 0 438 594 2852 594 2858 0"/></Shape>
+          <Shape><Polygon POINTS="438 0 442 624 2858 616 2858 0"/></Shape>
           
         </TextBlock>
         
