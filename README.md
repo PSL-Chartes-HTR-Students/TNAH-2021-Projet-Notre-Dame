@@ -10,13 +10,13 @@ Règles de transcription suivies:
     - mot incertain: [incertain]
     - mot que l'on ne parvient pas à transcrire : [??]
 
-Répartition de la transcription :
+Répartition de la transcription et relectures:
 -------------------------------------------------------------------------------------------------------------------------------------------------
-- Anais : pages 1 à 3
-- Soline : pages 4 et 5
-- Ariane : pages 6 et 7
-- Elsa : pages 8 et 9
-- Margaux : pages 10 à 12
+- Anais : pages 1 à 3 (relues par Ariane)
+- Soline : pages 4 et 5 (relues par Anais)
+- Ariane : pages 6 et 7 (relues par Soline)
+- Elsa : pages 8 et 9 (relues par Margaux)
+- Margaux : pages 10 à 12 (relues par Elsa)
 
 Utilisation d'eScriptorium :
 ---------------------------------------------------------------------------------
