@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1411" LABEL="folio" DESCRIPTION="block type folio"/><OtherTag ID="BT1412" LABEL="année" DESCRIPTION="block type année"/><OtherTag ID="BT1453" LABEL="Marge" DESCRIPTION="block type Marge"/>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1411" LABEL="folio" DESCRIPTION="block type folio"/><OtherTag ID="BT1412" LABEL="année" DESCRIPTION="block type année"/><OtherTag ID="BT1453" LABEL="Marge" DESCRIPTION="block type Marge"/><OtherTag ID="BT1638" LABEL="Table" DESCRIPTION="block type Table"/>
     
   </Tags>
   
