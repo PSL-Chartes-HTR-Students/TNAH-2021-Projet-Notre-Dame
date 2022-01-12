@@ -5,6 +5,7 @@ Le Projet Notre-Dame consiste en une transcription des journaux quotidiens de l'
 Règles de transcription suivies:
 -------------------------------------------------------------------------------------------------------------------------------------------------
 - respect des majuscules et minuscules
+- respect des ligatures (par exemple, transcrire "chœur")
 - mot qui est barré : 难 (une seule fois par mot) mais seulement s'ils sont totalement/à moitié illisibles. Les restranscrire s'ils sont lisibles. 
 - Pour mettre en exergue les doutes de transcription : 
     - mot incertain: [incertain]
