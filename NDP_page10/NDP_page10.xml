@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1411" LABEL="folio" DESCRIPTION="block type folio"/><OtherTag ID="BT1412" LABEL="année" DESCRIPTION="block type année"/><OtherTag ID="BT1453" LABEL="Marge" DESCRIPTION="block type Marge"/>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1411" LABEL="folio" DESCRIPTION="block type folio"/><OtherTag ID="BT1412" LABEL="année" DESCRIPTION="block type année"/><OtherTag ID="BT1453" LABEL="Marge" DESCRIPTION="block type Marge"/><OtherTag ID="BT1638" LABEL="Table" DESCRIPTION="block type Table"/>
     
   </Tags>
   
@@ -472,7 +472,7 @@
                     WIDTH="2360"
                     HEIGHT="125">
             <Shape><Polygon POINTS="463 1641 459 1584 1037 1561 1041 1561 1041 1561 1045 1561 1045 1561 1045 1561 1048 1561 1048 1561 1048 1565 1064 1580 1075 1588 1098 1580 1140 1565 1143 1565 1143 1565 1143 1565 1147 1565 1147 1565 1151 1565 1200 1580 1235 1588 1356 1580 1520 1565 1524 1565 1524 1565 1524 1565 1527 1565 1527 1565 1527 1565 1531 1565 1531 1565 1546 1576 1562 1588 1641 1576 1710 1569 1710 1569 1714 1569 1714 1569 1714 1569 1759 1576 1828 1591 1847 1576 1854 1569 1854 1569 1858 1569 1858 1569 1858 1569 1862 1569 1862 1569 1866 1569 1957 1569 1957 1569 1957 1569 1961 1569 1961 1569 1961 1569 1964 1569 1964 1569 1964 1572 1968 1576 1987 1595 2318 1595 2367 1572 2371 1572 2371 1572 2375 1572 2375 1572 2379 1572 2580 1572 2580 1572 2595 1572 2759 1595 2808 1572 2819 1656 2812 1686 459 1667"/></Shape>
-	    <String CONTENT="ogives de l’entrée des Collatéraux du chœur Sud : on commence le ravalement"
+	    <String CONTENT="ogives de l’entrée des collatéraux du chœur Sud : on commence le ravalement"
                     HPOS="459"
                     VPOS="1561"
                     WIDTH="2360"
