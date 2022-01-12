@@ -40,4 +40,5 @@ Bonnes pratiques :
 - les fichiers xml doivent se nommer comme suit : NDP_page01.xml
 - les images png doivent se nommer comme suit : NDP_page01.png
 - pour toute demande d'aide en transcription (mots incertains, illisibles...) : créer une issue pour chaque page pour y répertorier les difficultés
-- Créer une issue pour ouvrir une page à la relecture collégiale. Chaque suggestion pourra être proposée en commentaire.
+- créer une issue pour ouvrir une page à la relecture collégiale. Chaque suggestion pourra être proposée en commentaire.
+- ne pas oublier d'ajouter dans le lexique (lexique_architectural.md) les mots spécifiques au domaine de l'architecture qui ont posé des problèmes de transcription.
