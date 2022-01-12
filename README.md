@@ -28,6 +28,10 @@ Utilisation d'eScriptorium :
     - une zone pour délimiter le numéro de folio : "folio"
     - une zone pour délimiter les tableaux : "table"
  
+ Aides possibles
+ -------------------------------------------------
+ - Un lexique regroupant le vocabulaire architectural, une capture du mot et sa définition est disponible dans le repository.
+
  
 Bonnes pratiques : 
 -----------------------------------------------------------------------------------------------------------------------------------------
