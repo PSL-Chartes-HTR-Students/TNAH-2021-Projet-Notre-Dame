@@ -38,7 +38,7 @@ Utilisation d'eScriptorium :
 Bonnes pratiques : 
 -----------------------------------------------------------------------------------------------------------------------------------------
 - une branche par personne
-- Un dossier par page, nommé comme suit pour la page 1 : "NDP_page01". Il comprend un fichier xml, un fichier txt une image png.
+- Un dossier par page, nommé comme suit pour la page 1 : "NDP_page01". Il comprend un fichier xml, un fichier txt et une image png.
 - les fichiers xml doivent se nommer comme suit : NDP_page01.xml
 - les fichiers txt doivent se nommer comme suit : NDP_page01.txt
 - les images png doivent se nommer comme suit : NDP_page01.png
