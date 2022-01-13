@@ -38,8 +38,9 @@ Utilisation d'eScriptorium :
 Bonnes pratiques : 
 -----------------------------------------------------------------------------------------------------------------------------------------
 - une branche par personne
-- Un dossier par page, nommé comme suit pour la page 1 : "NDP_page01". Il comprend un fichier xml et une image png.
+- Un dossier par page, nommé comme suit pour la page 1 : "NDP_page01". Il comprend un fichier xml, un fichier txt une image png.
 - les fichiers xml doivent se nommer comme suit : NDP_page01.xml
+- les fichiers txt doivent se nommer comme suit : NDP_page01.txt
 - les images png doivent se nommer comme suit : NDP_page01.png
 - pour toute demande d'aide en transcription (mots incertains, illisibles...) : créer une issue pour chaque page pour y répertorier les difficultés
 - ne pas oublier d'ajouter dans le lexique (lexique_architectural.md) les mots spécifiques au domaine de l'architecture qui ont posé des problèmes de transcription.
