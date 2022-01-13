@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1411" LABEL="folio" DESCRIPTION="block type folio"/><OtherTag ID="BT1412" LABEL="année" DESCRIPTION="block type année"/><OtherTag ID="BT1453" LABEL="Marge" DESCRIPTION="block type Marge"/>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1411" LABEL="folio" DESCRIPTION="block type folio"/><OtherTag ID="BT1412" LABEL="année" DESCRIPTION="block type année"/><OtherTag ID="BT1453" LABEL="Marge" DESCRIPTION="block type Marge"/><OtherTag ID="BT1638" LABEL="Table" DESCRIPTION="block type Table"/>
     
   </Tags>
   
@@ -36,12 +36,12 @@
         </TextBlock>
         
         <TextBlock HPOS="0"
-                   VPOS="3"
+                   VPOS="146"
                    WIDTH="491"
-                   HEIGHT="4544"
+                   HEIGHT="4401"
                    ID="eSc_textblock_6006de54"
                    TAGREFS="BT1453">
-          <Shape><Polygon POINTS="488 4547 490 2409 491 663 491 3 422 3 0 3 5 2533 0 4547"/></Shape>
+          <Shape><Polygon POINTS="488 4547 490 2409 491 663 482 149 384 146 0 158 5 2533 0 4547"/></Shape>
           
         </TextBlock>
         
@@ -62,6 +62,16 @@
                    ID="eSc_textblock_0f18a380"
                    TAGREFS="BT2">
           <Shape><Polygon POINTS="503 10 477 4558 2858 4558 2858 25"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="131"
+                   VPOS="28"
+                   WIDTH="213"
+                   HEIGHT="73"
+                   ID="eSc_textblock_8f4b34db"
+                   TAGREFS="BT1412">
+          <Shape><Polygon POINTS="344 28 344 101 131 101 131 28"/></Shape>
           
         </TextBlock>
         
@@ -435,7 +445,7 @@
                     WIDTH="437"
                     HEIGHT="209">
             <Shape><Polygon POINTS="38 1641 34 1504 167 1500 171 1500 171 1500 174 1500 174 1500 174 1500 178 1500 178 1500 209 1527 262 1569 467 1569 471 1641 471 1702 296 1709 292 1709 292 1709 292 1709 288 1709 262 1702 190 1679 38 1698"/></Shape>
-	    <String CONTENT="Décembre 1er"
+	    <String CONTENT="Décembre 1er."
                     HPOS="34"
                     VPOS="1500"
                     WIDTH="437"
@@ -469,7 +479,7 @@
                     WIDTH="2296"
                     HEIGHT="130">
             <Shape><Polygon POINTS="505 1736 505 1660 642 1671 672 1660 699 1648 699 1648 703 1648 703 1648 703 1648 706 1648 706 1648 710 1648 710 1648 710 1648 714 1648 714 1648 725 1660 744 1675 839 1675 885 1660 934 1648 938 1648 938 1648 942 1648 942 1648 1048 1660 1124 1671 1136 1664 1151 1648 1151 1648 1155 1648 1155 1648 1155 1648 1159 1648 1159 1648 1162 1648 1356 1648 1356 1648 1356 1648 1360 1648 1360 1648 1406 1664 1429 1671 1505 1664 1634 1652 1634 1652 1638 1652 1638 1652 1641 1652 1641 1652 1641 1652 1645 1652 1645 1652 1645 1656 1657 1667 1664 1675 1858 1675 1873 1667 1930 1648 1934 1648 1934 1648 1934 1648 1938 1648 1938 1648 1942 1648 2018 1667 2037 1671 2078 1667 2280 1648 2280 1648 2284 1648 2284 1648 2287 1648 2287 1648 2344 1671 2348 1671 2352 1671 2401 1648 2401 1648 2405 1648 2405 1648 2405 1648 2409 1648 2409 1648 2413 1648 2413 1648 2413 1648 2455 1671 2462 1675 2789 1675 2793 1740 2778 1770 2759 1755 2417 1755 2363 1770 2352 1774 2348 1774 2348 1774 2348 1774 2344 1774 2344 1774 2318 1770 2192 1755 2067 1770 2040 1774 2040 1774 2037 1774 2037 1774 2037 1774 2033 1774 2025 1770 1972 1755 1767 1755 1736 1770 1736 1774 1733 1774 1733 1774 1733 1774 1729 1774 1729 1774 1729 1778 1276 1778 1273 1774 1273 1774 1269 1774 1269 1774 1269 1774 1265 1774 1265 1770 1238 1755 1189 1770 1181 1774 1178 1774 1178 1774 1178 1774 1174 1774 1136 1770 950 1755 904 1770 896 1774 896 1774 893 1774 893 1774 889 1774 497 1770"/></Shape>
-	    <String CONTENT="des bas cotés de la nef nord, ainsi que les marches en pierre du Jura : on"
+	    <String CONTENT="des bas cotés de la nef Nord, ainsi que les marches en pierre du Jura : on"
                     HPOS="497"
                     VPOS="1648"
                     WIDTH="2296"
@@ -809,7 +819,7 @@
                     WIDTH="2291"
                     HEIGHT="110">
             <Shape><Polygon POINTS="494 3259 494 3183 2781 3187 2785 3259 2781 3290 494 3293"/></Shape>
-	    <String CONTENT="des bas cotés de la nef nord, et la sculpture au dessus des collatéraux du"
+	    <String CONTENT="des bas cotés de la nef Nord, et la sculpture au dessus des collatéraux du"
                     HPOS="494"
                     VPOS="3183"
                     WIDTH="2291"
@@ -1047,7 +1057,7 @@
                     WIDTH="2292"
                     HEIGHT="133">
             <Shape><Polygon POINTS="524 4315 520 4243 2804 4239 2808 4315 2812 4334 2759 4357 2759 4357 2755 4357 2755 4357 2755 4357 2751 4357 2751 4357 2747 4357 2747 4357 2747 4357 2709 4338 2652 4369 2652 4369 2652 4369 2648 4369 2648 4369 2648 4372 2496 4372 2493 4369 2493 4369 2489 4369 2489 4369 2485 4369 2447 4346 2284 4369 2284 4369 2280 4369 2280 4369 2280 4369 2276 4369 2276 4369 2219 4342 2215 4342 2177 4342 1919 4365 1915 4365 1915 4365 1915 4365 1911 4365 1911 4365 1911 4365 1907 4365 1907 4361 1888 4346 1877 4338 1820 4350 1706 4369 1706 4369 1702 4369 1702 4369 1527 4353 1368 4338 1010 4357 1007 4357 1007 4357 847 4338 798 4361 786 4369 786 4369 786 4369 782 4369 782 4369 782 4369 779 4369 779 4369 775 4369 775 4369 760 4365 703 4342 661 4365 657 4365 657 4365 657 4365 653 4365 653 4365 653 4365 649 4365 649 4365 646 4365 646 4365 646 4365 646 4365 642 4365 642 4365 619 4346 524 4365"/></Shape>
-	    <String CONTENT="Est et ouest du comble du transept Sud ; on termine la sculpture"
+	    <String CONTENT="Est et Ouest du comble du transept Sud ; on termine la sculpture"
                     HPOS="520"
                     VPOS="4239"
                     WIDTH="2292"
