@@ -31,7 +31,7 @@ Utilisation d'eScriptorium :
  
  Aides possibles
  -------------------------------------------------
- - Un lexique regroupant le vocabulaire architectural, une capture du mot et sa définition est disponible dans le repository.
+ - Un [lexique](https://github.com/dtsoline/Projet-Notre-Dame/blob/projetND/lexique_architectural.md) regroupant le vocabulaire architectural, une capture du mot et sa définition est disponible dans le repository.
  - Un tutoriel pour la bonne numérotation des lignes est disponible [ici](https://github.com/dtsoline/Projet-Notre-Dame/blob/projetND/Tutoriel_numerotation_lignes.md)
 
  
