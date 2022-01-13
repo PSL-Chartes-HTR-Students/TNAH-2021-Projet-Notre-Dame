@@ -244,7 +244,7 @@
                     WIDTH="889"
                     HEIGHT="103">
             <Shape><Polygon POINTS="570 524 570 436 1459 455 1459 524 1459 539 570 539"/></Shape>
-	    <String CONTENT="choeur et du sanctuaire"
+	    <String CONTENT="chœur et du sanctuaire"
                     HPOS="570"
                     VPOS="436"
                     WIDTH="889"
@@ -448,7 +448,7 @@
                     WIDTH="2253"
                     HEIGHT="122">
             <Shape><Polygon POINTS="535 1284 539 1181 615 1215 847 1215 877 1189 877 1185 881 1185 881 1185 881 1185 881 1185 885 1185 885 1185 885 1185 889 1185 889 1185 893 1185 893 1185 893 1185 961 1211 1143 1185 1166 1185 1166 1185 1170 1185 1170 1185 1174 1185 1174 1185 1181 1185 1250 1211 1383 1189 1413 1185 1413 1185 1417 1185 1417 1185 1463 1189 1630 1211 1695 1192 1717 1185 1721 1185 1721 1185 1725 1185 1843 1185 1843 1185 1843 1185 1847 1185 1847 1185 1847 1185 1850 1185 1850 1189 1858 1192 1877 1211 1938 1192 1972 1185 1976 1185 1976 1185 1980 1185 1980 1185 1980 1185 1983 1185 2018 1196 2048 1204 2116 1196 2204 1185 2208 1185 2398 1185 2398 1185 2398 1185 2401 1185 2401 1185 2401 1185 2405 1185 2405 1185 2420 1200 2439 1215 2648 1215 2664 1200 2679 1189 2679 1185 2679 1185 2683 1185 2683 1185 2683 1185 2686 1185 2686 1185 2690 1185 2690 1185 2690 1185 2778 1204 2781 1287 2774 1303 528 1299"/></Shape>
-	    <String CONTENT="du choeur donnant sur le transept sud on a terminé la peinture des"
+	    <String CONTENT="du chœur donnant sur le transept sud on a terminé la peinture des"
                     HPOS="528"
                     VPOS="1181"
                     WIDTH="2253"
@@ -1128,7 +1128,7 @@
                     WIDTH="2250"
                     HEIGHT="140">
             <Shape><Polygon POINTS="577 4057 573 3962 1995 3973 2029 3954 2033 3954 2037 3954 2040 3954 2044 3954 2667 3970 2812 3951 2823 4046 2819 4068 657 4068 581 4091"/></Shape>
-	    <String CONTENT="reprise des deux travées du transept nord coté du choeur on rapporte les"
+	    <String CONTENT="reprise des deux travées du transept nord coté du chœur on rapporte les"
                     HPOS="573"
                     VPOS="3951"
                     WIDTH="2250"
