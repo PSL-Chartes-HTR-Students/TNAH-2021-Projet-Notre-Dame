@@ -7,7 +7,7 @@ Règles de transcription suivies:
 -------------------------------------------------------------------------------------------------------------------------------------------------
 - respect des majuscules et minuscules
 - respect des ligatures (par exemple, transcrire "chœur")
-- mot qui est barré : 难 (une seule fois par mot) mais seulement s'ils sont totalement/à moitié illisibles. Les restranscrire s'ils sont lisibles. 
+- mot qui est barré : 难 (une seule fois par mot) mais seulement s'ils sont totalement/à moitié illisibles. Les restranscrire entre accolades {} s'ils sont lisibles. 
 - Pour mettre en exergue les doutes de transcription : 
     - mot incertain: [incertain]
     - mot que l'on ne parvient pas à transcrire : [??]
