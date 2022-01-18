@@ -1,7 +1,8 @@
 # Projet-Notre-Dame
 
-Le Projet Notre-Dame consiste en une transcription des [journaux quotidiens de l'année 1860](https://mediatheque-patrimoine.culture.gouv.fr/sites/mediatheque/files/jnd_1860.pdf) des travaux effectués à la cathédrale Notre-Dame de Paris sous la direction d'Eugène Viollet-le-Duc et Jean-Baptiste Lassus. Celle-ci est réalisée dans le cadre du cours GIT du master 2 TNAH de l'Ecole nationale des chartes.
-Le modèle de transcription utilisé est Kraken: Modèle Manuscrit 19e Lectaurep. Les données sont disponibles dans le dossier [data](https://github.com/dtsoline/Projet-Notre-Dame/tree/projetND/data).
+Le Projet Notre-Dame consiste en une transcription des [journaux quotidiens de l'année 1860](https://mediatheque-patrimoine.culture.gouv.fr/sites/mediatheque/files/jnd_1860.pdf) des travaux de restauration effectués de 1844 à 1865 à la cathédrale Notre-Dame de Paris sous la direction d'Eugène Viollet-le-Duc et Jean-Baptiste Lassus. Celle-ci a été effectuée sur eScriptorium à partir de la [numérisation des journaux des travaux](https://mediatheque-patrimoine.culture.gouv.fr/travaux-de-notre-dame-de-paris-1844-1865) réalisée par la Médiathèque de l'architecture et du patrimoine. 
+
+Le projet Notre-Dame a été réalisé dans le cadre du cours GIT du [master 2 TNAH de l'École nationale des chartes](https://www.chartes.psl.eu/fr/cursus/master-technologies-numeriques-appliquees-histoire). Les données du projet sont disponibles dans le dossier [data](https://github.com/dtsoline/Projet-Notre-Dame/tree/projetND/data).
 
 Règles de transcription suivies:
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,20 +15,25 @@ Règles de transcription suivies:
 
 Répartition de la transcription et relectures:
 -------------------------------------------------------------------------------------------------------------------------------------------------
-- Anais : pages 1 à 3 (relues par Ariane)
-- Soline : pages 4 et 5 (relues par Anais)
+- Anaïs : pages 1 à 3 (relues par Ariane)
+- Soline : pages 4 et 5 (relues par Anaïs)
 - Ariane : pages 6 et 7 (relues par Soline)
 - Elsa : pages 8 et 9 (relues par Margaux)
 - Margaux : pages 10 à 12 (relues par Elsa)
 
 Utilisation d'eScriptorium :
 ---------------------------------------------------------------------------------
-- Application des zones :
-    - une zone principale qui constitue le corps du texte : main
-    - une zone marge : "marge"
-    - une zone pour encadrer les illustrations : "illustrations"
-    - une zone pour délimiter le numéro de folio : "folio"
-    - une zone pour délimiter les tableaux : "table"
+Versions utilisées : 
+- [eScriptorium](https://gitlab.com/scripta/escriptorium) : Version Wed Dec 8 10:53:11 CET 2021 - a64ba80255ddab851728cbdc2427f701902901c7
+- [Kraken](http://kraken.re/master/index.html) : version 3.0.5
+- Modèle de transcription utilisé : Kraken: Modèle Manuscrit 19e Lectaurep  
+
+Application des zones :
+- une zone principale qui constitue le corps du texte : "main"
+- une zone marge : "marge"
+- une zone pour encadrer les illustrations : "illustrations"
+- une zone pour délimiter le numéro de folio : "folio"
+- une zone pour délimiter les tableaux : "table"
  
  Aides possibles
  -------------------------------------------------
