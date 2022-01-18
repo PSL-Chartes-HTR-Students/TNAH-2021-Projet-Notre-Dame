@@ -1,7 +1,7 @@
 # Projet-Notre-Dame
 
 Le Projet Notre-Dame consiste en une transcription des [journaux quotidiens de l'année 1860](https://mediatheque-patrimoine.culture.gouv.fr/sites/mediatheque/files/jnd_1860.pdf) des travaux effectués à la cathédrale Notre-Dame de Paris sous la direction d'Eugène Viollet-le-Duc et Jean-Baptiste Lassus. Celle-ci est réalisée dans le cadre du cours GIT du master 2 TNAH de l'Ecole nationale des chartes.
-Le modèle de transcription utilisé est Kraken: Modèle Manuscrit 19e Lectaurep.
+Le modèle de transcription utilisé est Kraken: Modèle Manuscrit 19e Lectaurep. Les données sont disponibles dans le dossier [data](https://github.com/dtsoline/Projet-Notre-Dame/tree/projetND/data).
 
 Règles de transcription suivies:
 -------------------------------------------------------------------------------------------------------------------------------------------------
