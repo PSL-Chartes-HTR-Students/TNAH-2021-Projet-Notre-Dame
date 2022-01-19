@@ -23,10 +23,11 @@ Répartition de la transcription et relectures:
 
 Utilisation d'eScriptorium :
 ---------------------------------------------------------------------------------
-Versions utilisées : 
+Versions utilisées et considérations techniques : 
 - [eScriptorium](https://gitlab.com/scripta/escriptorium) : Version Wed Dec 8 10:53:11 CET 2021 - a64ba80255ddab851728cbdc2427f701902901c7
-- [Kraken](http://kraken.re/master/index.html) : version 3.0.5
+- [Kraken](http://kraken.re/master/index.html) : Version 3.0.5
 - Modèle de transcription utilisé : Kraken: Modèle Manuscrit 19e Lectaurep  
+- Format d'export des transcriptions : ALTO (XML)
 
 Application des zones :
 - une zone principale qui constitue le corps du texte : "main"
