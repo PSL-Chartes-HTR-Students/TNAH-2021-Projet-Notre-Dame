@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this project using these metadata."
+authors:
+  - given-names: Soline
+    family-names: Doat
+  - given-names: Elsa
+    family-names: Falcoz
+  - given-names: Margaux
+    family-names: Faure
+  - given-names: Anaïs
+    family-names: Mazoué
+  - given-names: Ariane
+    family-names: Menu
+title: "Projet Notre-Dame"
+date-released: 2022-01-20
+url: "https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Projet-Notre-Dame"
