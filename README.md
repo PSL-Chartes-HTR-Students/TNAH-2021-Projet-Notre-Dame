@@ -4,6 +4,10 @@ Le Projet Notre-Dame consiste en une transcription des [journaux quotidiens de l
 
 Le projet a été réalisé dans le cadre du cours GIT du [master 2 TNAH de l'École nationale des chartes](https://www.chartes.psl.eu/fr/cursus/master-technologies-numeriques-appliquees-histoire). Ses données sont disponibles dans le dossier [data](https://github.com/dtsoline/Projet-Notre-Dame/tree/projetND/data).
 
+Membres du projet:
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Le projet Notre-Dame a été réalisé par [Soline Doat](https://github.com/dtsoline), [Elsa Falcoz](https://github.com/CollapsarIsReal), [Margaux Faure](https://github.com/margauxfre), [Anaïs Mazoué](https://github.com/AnaisMazoue) et [Ariane Menu](https://github.com/A-Menu). Si nécessaire, nous vous prions de vous référer au fichier ```CITATION.cff``` pour citer le projet.
+
 Règles de transcription suivies:
 -------------------------------------------------------------------------------------------------------------------------------------------------
 - respect des majuscules et minuscules
