@@ -1,5 +1,7 @@
 # Projet Notre-Dame
 
+[![DOI](https://zenodo.org/badge/426569670.svg)](https://zenodo.org/badge/latestdoi/426569670)
+
 Le Projet Notre-Dame consiste en une transcription des [journaux quotidiens de l'année 1860](https://mediatheque-patrimoine.culture.gouv.fr/sites/mediatheque/files/jnd_1860.pdf) des travaux de restauration effectués de 1844 à 1865 à la cathédrale Notre-Dame de Paris sous la direction d'Eugène Viollet-le-Duc et Jean-Baptiste Lassus. Celle-ci a été effectuée sur eScriptorium à partir de la [numérisation des journaux des travaux](https://mediatheque-patrimoine.culture.gouv.fr/travaux-de-notre-dame-de-paris-1844-1865) réalisée par la Médiathèque de l'architecture et du patrimoine. 
 
 Le projet a été réalisé dans le cadre du cours GIT du [master 2 TNAH de l'École nationale des chartes](https://www.chartes.psl.eu/fr/cursus/master-technologies-numeriques-appliquees-histoire). Ses données sont disponibles dans le dossier [data](https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Projet-Notre-Dame/tree/projetND/data).
